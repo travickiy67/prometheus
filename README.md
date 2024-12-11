@@ -1,3 +1,5 @@
+## Травицкий Сергей
+
 # Домашнее задание к занятию «Система мониторинга Prometheus»
 
 Это задание для самостоятельной отработки навыков и не предполагает обратной связи от преподавателя. Его выполнение не влияет на завершение модуля. Но мы рекомендуем его выполнить, чтобы закрепить полученные знания.
@@ -43,7 +45,16 @@
 
 **Скрин 1**
 
-![alt text]
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img1.1.png)
+
+**Скрин 2**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img1.2.png)
+
+**Скрин 3**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img1.3.png)
+
 ---
 
 ### Задание 2
@@ -57,6 +68,18 @@
 
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+
+**Скрин 1**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img2.1.png)
+
+**Скрин 2**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img2.2.png)
+
+**Скрин 3**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img2.3.png)
 
 ---
 
@@ -73,6 +96,14 @@
 - [ ] Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 - [ ] Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
 
+**скрин**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img3.1.png)
+
+**Скрин 2**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img3.2.png)
+
 ---
 ## Дополнительные задания со звёздочкой*
 Эти задания дополнительные. Их можно не выполнять. Это не повлияет на зачёт. Вы можете их выполнить, если хотите глубже разобраться в материале.
@@ -85,10 +116,26 @@
 #### Требования к результату
 - [ ] Прикрепите к файлу README.md скриншот левого нижнего угла интерфейса, чтобы при наведении на иконку пользователя были видны ваши ФИО
 
+**Графану установил, в этой версии пользователь отображается в правом верхнем углу**
+
+**Скрин 1**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img4.1.png)
+
+**Скрин 2**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img4.2.png)
+
 ---
 
 ### Задание 5*
 Интегрируйте Grafana и Prometheus.
 
+**Скрин 1**
 
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img5.1.png)
+
+**Скрин 2**
+
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img5.2.png)
 

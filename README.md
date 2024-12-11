@@ -124,7 +124,7 @@
 
 **Скрин 2**
 
-![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img4.2.png)
+![alt text](https://github.com/travickiy67/prometheus/blob/main/img/img4.3.png)
 
 ---
 
